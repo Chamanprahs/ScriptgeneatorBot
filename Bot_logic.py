@@ -20,7 +20,7 @@ def get_script(update: Update, context: CallbackContext) -> None:
 
 def main() -> None:
     # Your bot's API token
-    token = 'YOUR_API_TOKEN'
+    token = '6552501089:AAGbdDHIZ9B2MDzTZWagQWZN9uxtjjjQ7vE'
     
     # Create the Updater and pass it your bot's token
     updater = Updater(token)
